@@ -1,0 +1,54 @@
+[
+  {
+    "id" : "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+    "items" : [
+      {
+        "description" : "180 cal - Fresh cage-free eggs scrambled to perfection",
+        "id" : "550E8400-E29B-11D4-A716-446655440000",
+        "name" : "Cage Free Scrambled Eggs"
+      },
+      {
+        "description" : "200 - ...",
+        "id" : "BE73A113-74F9-44AD-B2C5-7F1DFE8C21D1",
+        "name" : "croissant"
+      },
+      {
+        "description" : "200 cal - tasty",
+        "id" : "AC6859B6-E157-4BA7-8606-B22DE0586CED",
+        "name" : "croissant"
+      },
+      {
+        "description" : "300 cal - very tasty",
+        "id" : "A19E965A-0C68-4253-83E2-22F0587437B9",
+        "name" : "croissant"
+      },
+      {
+        "description" : "200 cal - super tasty",
+        "id" : "F9F91519-6BDE-4745-B5FC-1EA111CE8544",
+        "name" : "croissant"
+      },
+      {
+        "description" : "200 cal - tasty",
+        "id" : "986DC701-854E-4B83-A763-ABCD9237561B",
+        "name" : "croissant"
+      },
+      {
+        "description" : "200 cal - ...",
+        "id" : "EFA650F9-B62C-4731-AD5D-356771E3E4F2",
+        "name" : "croissant"
+      }
+    ],
+    "name" : "Breakfast"
+  },
+  {
+    "id" : "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+    "items" : [
+      {
+        "description" : "490 cal - Hearty pasta with grilled sausage",
+        "id" : "550E8400-E29B-11D4-A716-446655440001",
+        "name" : "Penne Pasta With Grilled Sausage"
+      }
+    ],
+    "name" : "Mains"
+  }
+]
